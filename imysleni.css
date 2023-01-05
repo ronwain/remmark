@@ -1,16 +1,19 @@
 
-
+body {
+  color: #203C46
+;
+}
   .front {
         background-image: url(img/imysleni/uvodni.png);
          }
 
 .kampan--numbers {
-    flex: 3;
+    flex: 7;
     margin: 3%;
     }
 
  .kampan--content {
-    flex:1;
+    flex:2;
     white-space: wrap;
     margin: 3%;
  }

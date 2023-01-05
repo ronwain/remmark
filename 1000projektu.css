@@ -1,0 +1,12 @@
+
+body {
+    color: #002732;
+  }
+
+    .front {
+          background-image: url(img/1000projektů/pozadí.png);
+           }
+  .kampan--content {
+    width: 50vw;
+    margin: 3%;
+  }

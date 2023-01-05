@@ -1,0 +1,33 @@
+
+body {
+    color:#3CA046
+  ;
+  background-color: #E5E9EA;
+  }
+
+  .green {
+    color: #B2D135;
+  }
+
+    .front {
+          background-image: url(img/zelena/pozadi.png);
+           }
+  
+  .kampan--numbers {
+      flex: 7;
+      margin: 3%;
+      }
+  
+   .kampan--content {
+      flex:2;
+      white-space: wrap;
+      margin: 3%;
+   }
+  
+    .kampan--imysleni__pictures {
+      margin: 3%;
+    }
+  
+    .kampan--imysleni__numbers {
+      margin: 3%;
+    }

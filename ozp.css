@@ -1,0 +1,50 @@
+body {
+    color: white;
+    background-color: #203C46;
+  }
+    .front {
+          background-image: url(img/ozp/d853cfa31090310faf1c4e3ef388dd04.png);
+           }
+  
+  .kampan--numbers {
+      flex: 7;
+      margin: 3%;
+      }
+  
+   .kampan--content {
+      flex:2;
+      white-space: wrap;
+      margin: 3%;
+   }
+  
+  
+    .kampan--imysleni__numbers {
+      margin: 3%;
+    }
+
+    li p {
+        color: #E5481D;
+    }
+
+    .orange {
+        color: #E5481D;
+    }
+
+    .kampan--numbers {
+        flex: 7;
+        margin: 3%;
+        }
+    
+     .kampan--content {
+        flex: 2;
+        white-space: wrap;
+        margin: 3%;
+     }
+    
+      .kampan--imysleni__pictures {
+        margin: 3%;
+      }
+    
+      .kampan--imysleni__numbers {
+        margin: 3%;
+      }
