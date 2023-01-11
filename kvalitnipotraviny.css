@@ -1,11 +1,10 @@
 
 body {
-    color: white
+    color: #203C46
   ;
-  background-color: #0B0B05;
   }
     .front {
-          background-image: url(img/kotlikove/kotlikove.png);
+          background-image: url(img/kvalitni/pozadi_kvalitni.png);
            }
   
   .kampan--numbers {
@@ -25,12 +24,4 @@ body {
   
     .kampan--imysleni__numbers {
       margin: 3%;
-    }
-
-    .big {
-        color:#E5481D;
-    }
-
-    .orange {
-        color:#E5481D;
     }

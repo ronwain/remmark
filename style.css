@@ -100,7 +100,22 @@ body {
 .wrapper {
   display: flex;
   flex-direction: row;
+  /*upravit individuálně*/
   width: 400vw;
   transform: rotate(90deg) translateY(-100vh);
   transform-origin: top left;
+}
+
+.typ {
+  color: white;
+  font-size: 100%;
+}
+
+.typ--color_or {
+background-color: #E5481D;
+}
+
+.orange {
+  color: #E5481D;
+
 }

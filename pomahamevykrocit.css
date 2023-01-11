@@ -1,13 +1,20 @@
 
 body {
-    color: white
+    color: #002732
   ;
-  background-color: #0B0B05;
+  background-color:white;
   }
     .front {
-          background-image: url(img/kotlikove/kotlikove.png);
+          background-image: url(img/pomahame/pozadi.png);
            }
   
+h3 {
+    color: #E5481D;
+}
+
+.typ {
+    background-color:#E5481D
+}
   .kampan--numbers {
       flex: 7;
       margin: 3%;
@@ -27,10 +34,9 @@ body {
       margin: 3%;
     }
 
-    .big {
-        color:#E5481D;
+    .kampan--pomahame__pictures .pictures--numbers {
+        display: flex;
+        flex-direction: column;
     }
 
-    .orange {
-        color:#E5481D;
-    }
+ 

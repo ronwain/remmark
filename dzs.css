@@ -2,12 +2,19 @@
 body {
     color: white
   ;
-  background-color: #0B0B05;
+  background-color: #1D1511;
   }
     .front {
-          background-image: url(img/kotlikove/kotlikove.png);
+          background-image: url(img/DZS/pozadi.png);
            }
   
+h3 {
+    color: #E5481D;
+}
+
+.typ {
+    background-color:#E5481D
+}
   .kampan--numbers {
       flex: 7;
       margin: 3%;
@@ -25,12 +32,4 @@ body {
   
     .kampan--imysleni__numbers {
       margin: 3%;
-    }
-
-    .big {
-        color:#E5481D;
-    }
-
-    .orange {
-        color:#E5481D;
     }

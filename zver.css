@@ -1,0 +1,58 @@
+body {
+    color: white;
+    background-color: #002732;
+  }
+    .front {
+          background-image: url(img/zver/pozadi.png);
+           }
+  
+  .kampan--numbers {
+      flex: 7;
+      margin: 3%;
+      }
+  
+   .kampan--content {
+      flex:1;
+      white-space: wrap;
+      margin: 2%;
+   }
+  
+    .kampan--zver__pictures {
+      margin: 2%;
+    }
+  
+    .kampan--zver__numbers {
+      margin: 2%;
+    }
+
+    .zver--img {
+        width: 200px;
+        height: 200px;
+    }
+
+
+    #poster_img1 {
+        background-image: url(img/zver/poster1.png);
+    }
+
+    #poster_img2 {
+        background-image: url(img/zver/poster2.png);
+    }
+
+    #creatures_img1 {
+        background-image: url(img/zver/creatura1.png);
+    }
+
+    #creatures_img2 {
+        background-image: url(img/zver/creatura2.png);
+    }
+
+    #creatures_img3 {
+        background-image: url(img/zver/creatura3.png);
+    }
+
+    #creatures_img4 {
+        background-image: url(img/zver/creatura4.png);
+    }
+
+   
